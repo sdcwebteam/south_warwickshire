@@ -286,7 +286,7 @@ ul.breadcrumb>li:last-child {
     margin: 0!important;
 }
 
-.faq-question::before {
+/* .faq-question::before {
     content: '\f0da';
     font-family: 'Font Awesome 5 Pro';
     padding-right: 15px;
@@ -297,7 +297,7 @@ ul.breadcrumb>li:last-child {
 .faq-question[aria-expanded=true]::before {
     content: '\f0d7';
 }
-
+ */
 .faq-answer {
     padding: 15px;
     box-shadow: inset 0 0 10px #ddd;
